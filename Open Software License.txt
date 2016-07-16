@@ -60,13 +60,17 @@ or by any other authorised means.
 2) The user may redistribute the Product but 
 that should be done on the following conditions -
     2.1) User must provide this license to the 
-    obtainer so that he/she/it can acknowledge the 
-    hardship and credit of the dev. in making 
+    obtainer so that he/she/it can acknowledge 
+    the hardship and credit of the dev. in making
     the product.
     2.2) Redistribution must be done free-of-cost
     that is, any cost must not be taken/charged 
     from the obtainer and the dev. may be 
     acknowledged about it.
+    2.3) Also the use of the software in network 
+    based operations/applications like any 
+    template, theme, or any framework is also a 
+    redistribution.
 3) By using the product, the user accepts that 
 there is no warranty or gaurantee attached with 
 this product.
