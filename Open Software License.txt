@@ -35,7 +35,23 @@ DEFINITIONS    --    USAGE OF VOCABULARY
 [1] MUST        -> Such an action is required, 
 necessary and is supposed to be done immidiately 
 or positively.
+
 [2] COST        -> Any charge, price or money.
+
+DEFINITIONS    --   USAGE OF CASE(UPPER/LOWER)
+**********************************************
+[1] UPPER CASE  -> The upper case in this license
+ is used to highlight some text out of other. 
+Such highlitation is used to show just some 
+important points for general readers and does 
+not change the technical perspective, that is,  
+such text does not actually stand out of other 
+text in sense of meaning. In jurisdiction 
+purposes such text must not be given special 
+emphasization, rather, the whole text should be 
+considered of same weightage.
+
+[2] LOWER CASE  -> It is normal text.
 
 =================================================
 
@@ -59,11 +75,11 @@ he/she/it is getting from the dev., distributor,
 or by any other authorised means.
 2) The user may redistribute the Product but 
 that should be done on the following conditions -
-    2.1) User must provide this license to the 
-    obtainer so that he/she/it can acknowledge 
+    2.1) USER MUST PROVIDE THIS LICENSE TO THE 
+    OBTAINER so that he/she/it can acknowledge 
     the hardship and credit of the dev. in making
     the product.
-    2.2) Redistribution must be done free-of-cost
+    2.2) REDISTRIBUTION MUST BE DONE FREE-OF-COST
     that is, any cost must not be taken/charged 
     from the obtainer and the dev. may be 
     acknowledged about it.
@@ -73,7 +89,7 @@ that should be done on the following conditions -
     redistribution.
 3) By using the product, the user accepts that 
 there is no warranty or gaurantee attached with 
-this product.
+this product and is PROVIDED "AS IS".
 4) If the user makes any changes to the product 
 for any purpose then he/she/it must acknowledge 
 the dev. of the change with proper notations of 
@@ -83,7 +99,8 @@ manipulated.
 in any commercial application/software made 
 by him/her/it but he/she/it has to provide the 
 credit of the dev. in any noticable portion of 
-such software/application.
+such software/application by ADDING THIS LICENSE 
+AS IT IS.
 6) In case of any other dispute, the jurisdiction
  of the country/state of the dev. must be 
 applicable.
@@ -93,25 +110,25 @@ Developer Agreement (T&C of the License to Dev.)
 
 1) The developer must provide a proper way in 
 his/her/their software so that the user is able 
-to see the code of the software free-of-cost. 
-And that way too should be the easiest possible 
+to see the code of the software FREE-OF-COST. 
+And that way too should be the EASIEST POSSIBLE 
 for user to use.
 2) The developer must not sell or distribute the 
 product for any cost. The product should be 
-distributed free-of-cost.
+distributed FREE-OF-COST.
 3) The product must not contain any material 
 that harms faith of religion or nationality 
 of the obtainer, neither it must contain any 
 material which is abusive.
-4) The product must not harm the device of user.
+4) The PRODUCT MUST NOT HARM THE DEVICE OF USER.
 5) By distributing the product, the dev. accepts 
-the usage of the patents and copyrights included 
-in the product by the user by the means of the 
-very product.
+the USAGE OF THE PATENTS AND COPYRIGHTS INCLUDED 
+IN THE PRODUCT BY THE USER BY THE MEANS OF THE 
+VERY PRODUCT.
 6) Also if there is any voilation of any patents 
 or copyrights of other person, firm, company, 
-organization, etc. then developer must be held 
-responsible for such offence.
+organization, etc. then DEVELOPER MUST BE HELD 
+RESPONSIBLE FOR SUCH OFFENCE.
 
 =================================================
 
