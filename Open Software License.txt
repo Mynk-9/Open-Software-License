@@ -1,0 +1,124 @@
+OPEN SOFTWARE LICENSE (OSL)
+***************************
+
+Version: 1.0.0
+
+=================================================
+
+DEFINITIONS
+***********
+
+[1] Software(s) -> Any program, software, 
+framework, etc. which can be executed/used on a 
+Computer or smartphone or any other such 
+electronic device.
+
+[2] T&C         -> Terms and Conditions.
+
+[3] Dev.        -> Developer(s).
+
+[4] Product     -> The software which the dev. 
+has made.
+
+[5] User        -> The person(s) to whom the dev.
+ has distributed the product. The user can also 
+ be a private/government firm, company, etc.
+
+[6] Obtainer    -> The person(s) to whom the user
+ is distributing the product. After being 
+obtained the product obtainer is also an user. 
+The obtainer can also be a private/government 
+firm, company, etc.
+
+DEFINITIONS    --    USAGE OF VOCABULARY
+****************************************
+[1] MUST        -> Such an action is required, 
+necessary and is supposed to be done immidiately 
+or positively.
+[2] COST        -> Any charge, price or money.
+
+=================================================
+
+PREAMBLE    --    Introduction
+OSL promotes Open Source Softwares, and, thereby 
+provides the developer a better way to secure and 
+promote his/her software.
+
+PREAMBLE    --    Details
+1) OSL advocates open source softwares.
+2) OSL is protective for developer as well as the
+user.
+
+=================================================
+
+End User Agreement (T&C of the License to User)
+***********************************************
+
+1) The user must not resell the Product which 
+he/she/it is getting from the dev., distributor, 
+or by any other authorised means.
+2) The user may redistribute the Product but 
+that should be done on the following conditions -
+    2.1) User must provide this license to the 
+    obtainer so that he/she/it can acknowledge the 
+    hardship and credit of the dev. in making 
+    the product.
+    2.2) Redistribution must be done free-of-cost
+    that is, any cost must not be taken/charged 
+    from the obtainer and the dev. may be 
+    acknowledged about it.
+3) By using the product, the user accepts that 
+there is no warranty or gaurantee attached with 
+this product.
+4) If the user makes any changes to the product 
+for any purpose then he/she/it must acknowledge 
+the dev. of the change with proper notations of 
+codes which have been removed, added or 
+manipulated.
+5) The user can use the code of the software 
+in any commercial application/software made 
+by him/her/it but he/she/it has to provide the 
+credit of the dev. in any noticable portion of 
+such software/application.
+6) In case of any other dispute, the jurisdiction
+ of the country/state of the dev. must be 
+applicable.
+
+Developer Agreement (T&C of the License to Dev.)
+************************************************
+
+1) The developer must provide a proper way in 
+his/her/their software so that the user is able 
+to see the code of the software free-of-cost. 
+And that way too should be the easiest possible 
+for user to use.
+2) The developer must not sell or distribute the 
+product for any cost. The product should be 
+distributed free-of-cost.
+3) The product must not contain any material 
+that harms faith of religion or nationality 
+of the obtainer, neither it must contain any 
+material which is abusive.
+4) The product must not harm the device of user.
+5) By distributing the product, the dev. accepts 
+the usage of the patents and copyrights included 
+in the product by the user by the means of the 
+very product.
+6) Also if there is any voilation of any patents 
+or copyrights of other person, firm, company, 
+organization, etc. then developer must be held 
+responsible for such offence.
+
+=================================================
+
+CREDITS
+*******
+
+This product is made by <developer_name> and 
+users can contact him/her through 
+<developer_email>
+
+This license was made by Mayank Mathur, also 
+known as Mynk-9 on Github(github.com).
+
+=================================================
