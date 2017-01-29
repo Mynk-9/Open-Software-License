@@ -139,7 +139,7 @@ This product is made by <developer_name> and
 users can contact him/her through 
 <developer_email>
 
-This license was made by Mayank Mathur, also 
+This license was (c) Mayank Mathur, also 
 known as Mynk-9 on Github(github.com).
 
 =================================================
